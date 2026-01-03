@@ -61,11 +61,13 @@ bitcoin-price-pipeline/
 
 ------------------------------------------------------------
 
-## Author
+## 👤 Author
+
 Adeogun Boluwatife - Data Scientist
 linkdln: https://www.linkedin.com/in/boluwatife-a
 
  
+----------------------
 
 
 

@@ -1,6 +1,0 @@
-venv/
-_pycache_/
-*.pyc
-pipeline.log
-bitcoin_prices.db
-.pytest_cache/
